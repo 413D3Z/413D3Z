@@ -1,6 +1,5 @@
 ### 
 
-I am an Ai Developer for --
 
 
 
