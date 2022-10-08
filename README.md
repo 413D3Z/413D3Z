@@ -3,12 +3,10 @@
 I am an Ai Developer for --
 
 
-[![ACKERWORX](https://github.com/41d3nz/41d3nz/blob/403150efe511efea5f05c26be8d3e206afeb7c84/WeAreNoBGsiteLogo.png)](https://www.ackerworx.com)
 
 
  ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
-                                              AckerWorx an Altruistic Group ❤️
 
 ### ⚙️ &nbsp;GitHub Analytics
 
