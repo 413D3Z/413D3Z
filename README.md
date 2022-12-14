@@ -14,7 +14,7 @@ CyberSecurity is a science, sciences are impossible to master as it constantly e
 
 
 
- ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
+ ⚡ 食べる 🍔 寝る 😴 ハック 💻 繰り返す 🔁
 
 
 ### ⚙️ &nbsp;GitHub Analytics
