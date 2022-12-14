@@ -6,6 +6,12 @@ I'm a programmer, I wish to learn the industry standard of CyberSecurity so that
 
 CyberSecurity is a science, sciences are impossible to master as it constantly evolves. So by that definition, I will always be a student.
 
+私は最近 @AckerWorx で働き始めました。現在、BaHons の学位として Cyber​​Security を勉強しています。
+
+私はプログラマーです。より良いコーディングができるように、サイバーセキュリティの業界標準を学びたいと思っています。
+
+サイバーセキュリティは科学です。科学は常に進化しているため、マスターすることは不可能です。ですから、その定義によれば、私は常に学生です。
+
 
 
  ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
