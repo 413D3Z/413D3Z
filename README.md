@@ -4,7 +4,7 @@ I've recently started working for @AckerWorx - I'm currently studying CyberSecur
 
 I'm a programmer, I wish to learn the industry standard of CyberSecurity so that I may code better.
 
-CyberSecurity is a science, sciences are impossible to master as it constantly evolves. So by that definition, I will also be a student.
+CyberSecurity is a science, sciences are impossible to master as it constantly evolves. So by that definition, I will always be a student.
 
 
 
