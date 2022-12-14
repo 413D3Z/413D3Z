@@ -2,7 +2,9 @@
 
 I've recently started working for @AckerWorx - I'm currently studying CyberSecurity as a BaHons Degree. 
 
-I'm a programmer, I wish to learn CyberSecurity so that I may code better.
+I'm a programmer, I wish to learn the industry standard of CyberSecurity so that I may code better.
+
+CyberSecurity is a science, sciences are impossible to master as it constantly evolves. So by that definition, I will also be a student.
 
 
 
