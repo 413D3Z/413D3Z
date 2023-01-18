@@ -1,6 +1,6 @@
 ### 
 
-I've recently started working for @AckerWorx - I'm currently studying CyberSecurity as a BaHons Degree. 
+I've recently started working with @AckerWorx - I'm currently studying CyberSecurity as a BaHons Degree. 
 
 I'm a programmer, I wish to learn the industry standard of CyberSecurity so that I may code better.
 
