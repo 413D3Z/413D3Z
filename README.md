@@ -1,5 +1,11 @@
 ### 
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.css" />
+<script src="https://cdn.jsdelivr.net/gh/byjokese/code-stats-embedded@latest/dist/codestatsembedded.min.js"></script>
+<script>
+  CodeStatsEmbed("ContainerSelector", "413D3Z");
+</script>
+
 I've recently started working with @AckerWorx - I'm currently studying CyberSecurity as a BaHons Degree. 
 
 I'm a programmer, I wish to learn the industry standard of CyberSecurity so that I may code better.
